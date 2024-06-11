@@ -1,0 +1,13 @@
+dockerize application
+
+https://dev.to/ki3ani/deploying-your-first-dockerized-django-rest-api-on-aws-elastic-beanstalk-a-comprehensive-guide-2m77
+
+Install docker in ubuntu
+https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-22-04
+
+
+For build
+sudo docker build -t blog .
+
+To run docker container
+sudo docker run -p 8001:8001 blog 
