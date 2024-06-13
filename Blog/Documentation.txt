@@ -1,3 +1,6 @@
+Basics of Docker
+https://www.youtube.com/watch?v=rIrNIzy6U_g
+
 dockerize application
 
 https://dev.to/ki3ani/deploying-your-first-dockerized-django-rest-api-on-aws-elastic-beanstalk-a-comprehensive-guide-2m77
