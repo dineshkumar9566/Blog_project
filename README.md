@@ -7,7 +7,7 @@ cd core/
 
 use application
 
-**social authentication not finised because it asks to buy google cloud service, which we can try by creating new gmail id for practice purpose**
+**social authentication not finised because it asks to buy google cloud service i.e OAUTH2, which we can try by creating new gmail id for practice purpose**
 
 
 For the project documentation
