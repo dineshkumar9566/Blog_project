@@ -20,6 +20,9 @@ https://www.youtube.com/watch?v=Mezha1p_dTE&t=140s
 Google,Github,facebook signup & Login
 https://youtu.be/GQySb3W2feo?si=A_cqkLDvwFb65NAg
 
+allauth documentation to signup and login with varios social media apps
+https://docs.allauth.org/en/latest/installation/quickstart.html
+
 
 You can use your own SMTP server or utilize Brevo (formerly SendInBlue), Mailgun, SendGrid, or a similar service. I suggest you go with Brevo since they're relatively cheap and allow you to send a decent amount of emails daily (for free).
 
