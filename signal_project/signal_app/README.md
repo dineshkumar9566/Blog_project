@@ -20,3 +20,9 @@ Django provides several built-in signals, including:
 
 Refer:
 https://medium.com/jungletronics/how-django-signals-work-81dc30d0dad5
+
+
+
+
+for clear undestanding:
+https://www.google.com/search?sca_esv=19780ec8fcf2a1b8&sca_upv=1&sxsrf=ADLYWIIgyBMU6hY9hQReX_i1YKN_XISdZg:1718944038077&q=django+signals+and+their+usage&tbm=vid&source=lnms&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J_86uWOeqwdnV0yaSF-x2joZDvir2QxhZkTA8rK1etu4ohtqlTKXOQ56HmFa2r_epndM3O_Pg3eZzqhmskTYrDUq4znXDBd7PoLKI2b-P6R2amGrM44CRlQMbguMhFtgOaBlL37-_CLULp7cXd_6eCm2Q0jd&sa=X&ved=2ahUKEwiV4JzG7euGAxVHxzgGHbG6DCEQ0pQJegQIDRAB&biw=1164&bih=551&dpr=1.1#fpstate=ive&vld=cid:2bbe206f,vid:rEX50LJrFuU,st:0
